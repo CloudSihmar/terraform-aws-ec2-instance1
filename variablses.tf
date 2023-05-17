@@ -13,3 +13,7 @@ variable "ami" {
 variable "instance_type" {
   default = ""
 }
+
+variable "region" {
+  default = ""
+}
